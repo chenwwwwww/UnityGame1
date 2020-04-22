@@ -1,5 +1,8 @@
 # UnityGame1
-This is a game developed by Unity3D platform which about Simulated amusement park
+
+This is a Simulated amusement park game developed by Unity3D platform 
+----------------------------------------------------------------------
+
 ![image](https://wx4.sinaimg.cn/mw690/007emmkUgy1ge2x9lu1oaj31hc0u0e82.jpg)
 ![image](https://wx2.sinaimg.cn/mw690/007emmkUgy1ge2xad0s2jj31hc0u04qq.jpg)
 ![image](https://wx2.sinaimg.cn/mw690/007emmkUgy1ge2xa40o7oj31hc0u0kjl.jpg)
@@ -8,9 +11,10 @@ This is a game developed by Unity3D platform which about Simulated amusement par
 ![image](https://wx2.sinaimg.cn/mw690/007emmkUgy1ge2xad0s2jj31hc0u04qq.jpg)
 
  INSTRUCTIONS：
- ·Keyboard up and down about the key to control the movement of characters
- ·The W and S keys control the character's perspective respectively
- ·P key is to open the device when it is near the amusement equipment for play
- ·The L key indicates the end of the device being played
- ·In play mode, U and I keys are used to switch horizontal angles
+ --------------------------------------------------------------
+ ·Keyboard up and down about the key to control the movement of characters  
+ ·The W and S keys control the character's perspective respectively  
+ ·P key is to open the device when it is near the amusement equipment for play  
+ ·The L key indicates the end of the device being played  
+ ·In play mode, U and I keys are used to switch horizontal angles  
 
