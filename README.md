@@ -20,5 +20,6 @@ This is a Simulated amusement park game developed by Unity3D platform
 
  NOTICE:
  -----------------------------------------------------------------
- If you want to download the full document, open and download
- 
+ If you want to download the full document, open and download  
+ link：https://pan.baidu.com/s/12Oy-TH-TP69bQo953fqKDA   
+ password：x4og  
