@@ -18,3 +18,7 @@ This is a Simulated amusement park game developed by Unity3D platform
  ·The L key indicates the end of the device being played  
  ·In play mode, U and I keys are used to switch horizontal angles  
 
+ NOTICE:
+ -----------------------------------------------------------------
+ If you want to download the full document, open and download
+ 
