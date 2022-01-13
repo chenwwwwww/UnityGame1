@@ -1,5 +1,6 @@
 # UnityGame1
-·---created by chenzhihong in 2019
+---created by chenzhihong in 2019
+----------------------------------------------------------------------
 This is a Simulated amusement park game developed by Unity3D platform 
 ----------------------------------------------------------------------
 ![image](https://wx4.sinaimg.cn/mw690/007emmkUgy1ge2x9lu1oaj31hc0u0e82.jpg)
